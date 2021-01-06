@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Lamborghini</title>
+
+
+<body>
+<h1>自我介紹</h1>
+<img src="https://www.91pu.com.tw/uploads/200818/199479-200QQP50b14.jpg"width="50%"height="25%">
+<p>姓名: 沈家同</p>
+<p>學號: 109062207</p>
+<p>系所:資工系</p>
+<p>興趣</p>
+<ol>
+    <li>吃飯🍔</li>
+    <li>睡覺😴</li>
+    <li>打東東🤜</li>
+</ol>
+<a href="https://j.gifs.com/WLQpKo.gif">好康的哞</a>
